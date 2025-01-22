@@ -38,9 +38,9 @@ const Footer = () => {
                         </div>
                         <div className="col-md-6 col-lg-4 col-12 ft-3">
                             <h5>Quick Links</h5>
-                            <p><i class="fa-solid fa-phone-volume"></i> +92 3121324083</p>
-                            <p><i class="fa-solid fa-envelope"></i> waleedishfaq1515@gmail.com</p>
-                            <p><i class="fa-solid fa-paper-plane"></i> Abbottabad, Pakistan.</p>
+                            <p><i class="fa-solid fa-phone-volume"></i> +12345678910</p>
+                            <p><i class="fa-solid fa-envelope"></i> Random@gmail.com</p>
+                            <p><i class="fa-solid fa-paper-plane"></i> ABC</p>
                         </div>
                     </div>
                 </div>
